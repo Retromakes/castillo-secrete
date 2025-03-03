@@ -39,12 +39,12 @@
 
 // In this section we define map dimensions, initial and authomatic ending conditions, etc.
 
-#define MAP_W						16		//
+#define MAP_W						20		//
 #define MAP_H						1		// Map dimensions in screens
 #define SCR_INICIO					0		// Initial screen
 #define PLAYER_INI_X				2		//
 #define PLAYER_INI_Y				8		// Initial tile coordinates
-#define SCR_FIN 					15		// Last screen. 99 = deactivated.
+#define SCR_FIN 					99		// Last screen. 99 = deactivated.
 //#define PLAYER_FIN_X				99		//
 //#define PLAYER_FIN_Y				99		// Player tile coordinates to finish game
 //#define PLAYER_NUM_OBJETOS			25		// Objects to get to finish game
